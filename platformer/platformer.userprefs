@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\gameController.cs">
+    <Files>
+      <File FileName="platformer.sln" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerController.cs" Line="34" Column="57" />
+      <File FileName="Assets\Scripts\gameController.cs" Line="181" Column="33" />
+      <File FileName="Assets\Scripts\uiScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
